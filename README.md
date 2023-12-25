@@ -1,6 +1,7 @@
 # Budget-Allocation
 
-Greedy Algorithm Based program for the following problem:
+#### Greedy Algorithm Based program for the following problem:
+
 A company is planning to launch a new product. They have a limited budget to spend on marketing and advertising. They need to decide how to allocate their budget to maximize the number of people who will be aware of their product.
 Marketing Channels:
 
